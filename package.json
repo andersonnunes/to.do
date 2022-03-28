@@ -1,6 +1,7 @@
 {
   "name": "to.do",
   "private": true,
+  "homepage": "https://andersonnunes.github.io/to.do",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -30,6 +31,7 @@
     "@vitest/ui": "^0.7.12",
     "c8": "^7.11.0",
     "faker": "^6.6.6",
+    "gh-pages": "^3.2.3",
     "jsdom": "^19.0.0",
     "typescript": "^4.5.4",
     "vite": "^2.8.0",
