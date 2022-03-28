@@ -6,7 +6,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "test": "vitest"
+    "test": "vitest",
+    "test:ui": "vitest --ui"
   },
   "dependencies": {
     "node-fetch": "^3.2.3",
@@ -26,6 +27,7 @@
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@vitejs/plugin-react": "^1.0.7",
+    "@vitest/ui": "^0.7.12",
     "c8": "^7.11.0",
     "faker": "^6.6.6",
     "jsdom": "^19.0.0",
