@@ -23,7 +23,7 @@ specifiers:
   sass: ^1.49.9
   typescript: ^4.5.4
   vite: ^2.8.0
-  vitest: ^0.6.0
+  vitest: ^0.8.0
 
 dependencies:
   node-fetch: 3.2.3
@@ -50,7 +50,7 @@ devDependencies:
   jsdom: 19.0.0
   typescript: 4.6.2
   vite: 2.8.6_sass@1.49.9
-  vitest: 0.6.0_5c68dc4ac832dd3be331f363d30287b1
+  vitest: 0.8.0_5c68dc4ac832dd3be331f363d30287b1
 
 packages:
 
@@ -2215,9 +2215,9 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitest/0.6.0_5c68dc4ac832dd3be331f363d30287b1:
-    resolution: {integrity: sha512-FuIkLHCQxz6rO35MQROUtVdwcBaYnt198YpPGIrJXmuNHGolfPbrZIiwpD7bek0OiETxuphK3+KR5oJ5Qi1g5A==}
-    engines: {node: '>=14.14.0'}
+  /vitest/0.8.0_5c68dc4ac832dd3be331f363d30287b1:
+    resolution: {integrity: sha512-8m8OufAQWXlNpjm5dTe5Lc60zruguKJljunveueYrd4aoeXaQvggLX0SPmIW3G6PDtnBdNEynSi+6pibjnutQA==}
+    engines: {node: '>=v14.19.1'}
     hasBin: true
     peerDependencies:
       '@vitest/ui': '*'
